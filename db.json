@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "2",
+      "name": "Divan",
+      "price": 99,
+      "cent": 11,
+      "image": "https://deco-mollis.ru/upload/iblock/8e2/8e2e0e7af7871d526df7b59b0cca3144.jpg",
+      "status": true,
+      "cnt": 3,
+      "company": "Marcos",
+      "desc": "Marcos is a software development project developed by Marcos Corporation and contributors and contributors for the Internet Software Foundation and the Internet Software Foundation Foundation Foundation and the Internet Software Foundation Foundation Foundation and the Internet Software Foundation Foundation Foundation and the Internet Software Foundation Foundation Foundation and the Internet Software Foundation Foundation Foundation and the Internet Software Foundation Foundation Foundation and the Internet Software Foundation Foundation Foundation and the"
+    },
+    {
+      "id": "3",
+      "name": "Shkaf",
+      "price": 12,
+      "cent": 11,
+      "image": "https://pro-dachnikov.com/uploads/posts/2023-01/1673655401_pro-dachnikov-com-p-kak-sobirayut-mebel-foto-32.jpg",
+      "status": true,
+      "cnt": 4,
+      "company": "Caressa",
+      "desc": "Caressa is a software development project developed by Caressa Corporation and contributors and contributors for the Internet Software Foundation and the Internet Software Foundation Foundation Foundation and the Internet Software Foundation Foundation Foundation and the Internet Software Foundation Foundation Foundation and the Internet Software Foundation Foundation Foundation and the Internet Software Foundation Foundation Foundation and the Internet Software Foundation Foundation Foundation and the Internet Software Foundation Foundation Foundation and the"
+    },
+    {
+      "id": "33",
+      "name": "Stol",
+      "price": 12,
+      "cent": 11,
+      "image": "https://avatars.mds.yandex.net/i?id=25089d5b99b056ed45253c1c524d59025dab7d37-12569757-images-thumbs&n=13",
+      "status": false,
+      "cnt": 0,
+      "company": "Caressa",
+      "desc": "Caressa is a software development project developed by Caressa Corporation and contributors and contributors for the Internet Software Foundation and the Internet Software Foundation Foundation Foundation and the Internet Software Foundation Foundation Foundation and the Internet Software Foundation Foundation Foundation and the Internet Software Foundation Foundation Foundation and the Internet Software Foundation Foundation Foundation and the Internet Software Foundation Foundation Foundation and the Internet Software Foundation Foundation Foundation and the"
+    },
+    {
+      "id": "5",
+      "name": "Kreslo",
+      "price": 55,
+      "cent": 19,
+      "image": "https://a.d-cd.net/6b31391s-1920.jpg",
+      "status": false,
+      "cnt": 0,
+      "company": "Liddy",
+      "desc": "Caressa is a software development project developed by Caressa Corporation and contributors and contributors for the Internet Software Foundation and the Internet Software Foundation Foundation Foundation and the Internet Software Foundation Foundation Foundation and the Internet Software Foundation Foundation Foundation and the Internet Software Foundation Foundation Foundation and the Internet Software Foundation Foundation Foundation and the Internet Software Foundation Foundation Foundation and the Internet Software Foundation Foundation Foundation and the"
+    }
+  ]
+}
